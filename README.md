@@ -1,7 +1,7 @@
 # Pre-Multiplied Alpha
 Pre-Multiplied alpha blend is a blend mode has been around for a long time, but it seems to be re-discovered every few years. 
 
-This article focuses on using pre-multiplied alpha to batch a lot of blending modes together. This batching has become very important in modern famerate sensitive applications like VR on mobile. 
+This article focuses on using pre-multiplied alpha to batch a lot of blending modes together. This batching has become very important in modern frame rate sensitive applications like VR on mobile. 
 
 [![VR Optimiaztion](https://img.youtube.com/vi/belVA1C013A/0.jpg)](https://www.youtube.com/watch?v=belVA1C013A "Unity max performance")
 
